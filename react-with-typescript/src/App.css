@@ -12,10 +12,12 @@
 .List-header {
   display: flex;
   align-items: center;
+  text-align: center;
 }
 
 .List-header h2 {
   color: rgb(37, 36, 36);
+  text-align: center;
 }
 
 .List-img {
@@ -35,6 +37,7 @@
   flex-direction: column;
   width: 30rem;
   margin: 5rem auto;
+  text-align: center;
 }
 
 .AddToList-input {
